@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"832cf7bfbd472ce5","type":"file","file":"images/day1.png","x":-340,"y":-240,"width":520,"height":760},
+		{"id":"712730bacf85d643","type":"text","text":"Cite: https://civitai.com/images/8933615","x":-340,"y":536,"width":520,"height":60},
+		{"id":"651c86c73720b8ae","type":"file","file":"day1.md","x":207,"y":-240,"width":593,"height":760}
+	],
+	"edges":[
+		{"id":"1d214146859e4378","fromNode":"832cf7bfbd472ce5","fromSide":"bottom","toNode":"712730bacf85d643","toSide":"top"},
+		{"id":"3c4f85eca0abcfc7","fromNode":"832cf7bfbd472ce5","fromSide":"right","toNode":"651c86c73720b8ae","toSide":"left"}
+	]
+}
