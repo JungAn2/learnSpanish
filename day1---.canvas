@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"71e955e47df413fc","type":"file","file":"Images/day1.png","x":-680,"y":-670,"width":554,"height":810},
+		{"id":"0b107db27cfa805a","type":"text","text":"Citation: https://civitai.com/images/8933615","x":-680,"y":160,"width":554,"height":60},
+		{"id":"1598db21f300dc2b","type":"text","text":"Description words:\n- Objects: objetos\n\t- Mountain: la montaña\n\t- Waterfall: la cascada\n\t- Cliffs: el acantilados\n\t- bridge: el puente\n\t- square(gathering area): la plaza\n- Colors: colores\n\t- Green: verde\n\t- blue: azul\n\t- white: blanca / blanco\n\t- brown: marrón","x":-80,"y":-670,"width":500,"height":810}
+	],
+	"edges":[
+		{"id":"e2a19b86c54d6392","fromNode":"71e955e47df413fc","fromSide":"right","toNode":"1598db21f300dc2b","toSide":"left"},
+		{"id":"f9daa26db79e0c37","fromNode":"71e955e47df413fc","fromSide":"bottom","toNode":"0b107db27cfa805a","toSide":"top"}
+	]
+}
