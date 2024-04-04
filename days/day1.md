@@ -15,14 +15,6 @@
 - building: **edificio** (M)
 	- window: **ventana** (F)
 	- door: **puerta** (F)
-## Colors: **colores** (M)
-- sky blue: **cielo azul**
-- blue: **azul**
-- green: **verde**
-- white: **blanca** (F) / **blanco** (M)
-- brown: marrón
-- red: **rojo** (M)
-- black: **negra** (F) / **negro** (M)
 ## Descriptive Sentences:
 - The church is on top of a cliff.
 	> La iglesia está en lo alto de un acantilado.
