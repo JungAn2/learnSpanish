@@ -2,10 +2,15 @@
 	"nodes":[
 		{"id":"832cf7bfbd472ce5","type":"file","file":"images/day1.png","x":-480,"y":-240,"width":602,"height":880},
 		{"id":"712730bacf85d643","type":"text","text":"Cite: https://civitai.com/images/8933615","x":-480,"y":680,"width":602,"height":60},
-		{"id":"651c86c73720b8ae","type":"file","file":"days/day1.md","x":160,"y":-240,"width":453,"height":980}
+		{"id":"651c86c73720b8ae","type":"file","file":"days/day1.md","x":160,"y":-240,"width":453,"height":980},
+		{"id":"8bc3df777ece04d1","type":"file","file":"images/day2.png","x":760,"y":-240,"width":684,"height":879},
+		{"id":"36fd7a7a3dd998c2","type":"text","text":"Cite: https://civitai.com/images/8773091","x":760,"y":680,"width":684,"height":60},
+		{"id":"8c2230c558f53475","x":1482,"y":-240,"width":478,"height":980,"type":"file","file":"days/day2.md"}
 	],
 	"edges":[
 		{"id":"1d214146859e4378","fromNode":"832cf7bfbd472ce5","fromSide":"bottom","toNode":"712730bacf85d643","toSide":"top"},
-		{"id":"3c4f85eca0abcfc7","fromNode":"832cf7bfbd472ce5","fromSide":"right","toNode":"651c86c73720b8ae","toSide":"left"}
+		{"id":"3c4f85eca0abcfc7","fromNode":"832cf7bfbd472ce5","fromSide":"right","toNode":"651c86c73720b8ae","toSide":"left"},
+		{"id":"d4379d7e17f50f79","fromNode":"8bc3df777ece04d1","fromSide":"bottom","toNode":"36fd7a7a3dd998c2","toSide":"top"},
+		{"id":"ea747b7b6bb79bb9","fromNode":"8bc3df777ece04d1","fromSide":"right","toNode":"8c2230c558f53475","toSide":"left"}
 	]
 }

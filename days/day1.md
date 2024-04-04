@@ -21,6 +21,7 @@
 - green: **verde**
 - white: **blanca** (F) / **blanco** (M)
 - brown: marrón
+- red: **rojo** (M)
 - black: **negra** (F) / **negro** (M)
 ## Descriptive Sentences:
 - The church is on top of a cliff.
