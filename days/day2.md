@@ -1,0 +1,37 @@
+# Objects: Los objetos
+- human: Humana (F)
+	- Female: femenina (F) / femenino (M)
+	- girl: chica
+- Figures: figura
+	- Blond: rubio
+	- short: corta (F) / corto (M)
+	- hair: cabello (hair on head)
+	- eyes: ojos
+	- smile: sonrisa 
+	- dress: vestido
+	- ribbon: cinta
+	- slim: delgada (F) / delgado (M) 
+	- happy: feliz
+	- pretty: bonita (F) / bonito (M)
+	- beautiful: hermosa (F) / hermoso (M)
+- Environment el entorno
+	- Basket: la canasta
+	- Eggs: los huevos
+	- Flowers: la flor
+	- Tree: [el árbol](https://www.spanishdict.com/translate/el%20%C3%A1rbol?langFrom=es)
+	- sky: [el cielo](https://www.spanishdict.com/translate/el%20cielo?langFrom=es)
+	- clouds: [la nube](https://www.spanishdict.com/translate/la%20nube?langFrom=es)
+	- mountains: las montanas
+	- grass: [el césped](https://www.spanishdict.com/translate/el%20c%C3%A9sped?langFrom=es)
+	- river: [el río](https://www.spanishdict.com/translate/el%20r%C3%ADo?langFrom=es)
+	- lake: [el lago](https://www.spanishdict.com/translate/el%20lago?langFrom=es)
+	- weather: [el clima](https://www.spanishdict.com/translate/el%20clima?langFrom=es)
+	- path: [el sendero](https://www.spanishdict.com/translate/el%20sendero) 
+	- road: [el camino](https://www.spanishdict.com/translate/el%20camino?langFrom=es)
+- Others:
+	- walking: [caminar](https://www.spanishdict.com/translate/caminar?langFrom=es)
+	- running: [correr](https://www.spanishdict.com/translate/correr?langFrom=es)
+# Descriptive sentence
+- The blond haired girl is walking down the path with basket filled with eggs.
+	- Attempt: *La rubio cabello chica esta camina el sendero para la canasta*
+	- Correct: La chica de cabello rubio camina por el sendero con una canasta llena de huevos.
