@@ -56,7 +56,12 @@
 		{"id":"5cfff3a995271735","type":"text","text":"https://civitai.com/images/8758880","x":-3837,"y":-300,"width":250,"height":60},
 		{"id":"6817be9f298aca55","type":"file","file":"Pasted image 20240404173036.png","x":-3848,"y":-731,"width":267,"height":400},
 		{"id":"669c71df198147a1","type":"file","file":"Pasted image 20240404173016.png","x":-4234,"y":-731,"width":267,"height":400},
-		{"id":"d311668ffdbdd088","type":"file","file":"Pasted image 20240404172957.png","x":-4640,"y":-731,"width":267,"height":400}
+		{"id":"d311668ffdbdd088","type":"file","file":"Pasted image 20240404172957.png","x":-4640,"y":-731,"width":267,"height":400},
+		{"id":"71781081c3aaf29e","x":3240,"y":-240,"width":586,"height":879,"type":"file","file":"Pasted image 20240406204049.png"},
+		{"id":"a07c18407c333957","x":3240,"y":680,"width":586,"height":60,"type":"text","text":"https://civitai.com/images/855912"},
+		{"id":"db3ad58e536e0e89","x":-3848,"y":-920,"width":250,"height":60,"type":"text","text":"Photos I like"},
+		{"id":"852c1882f8decfc1","x":4680,"y":-240,"width":641,"height":879,"type":"file","file":"Pasted image 20240406204216.png"},
+		{"id":"32123d1aca67e8bb","x":4680,"y":675,"width":641,"height":65,"type":"text","text":"https://civitai.com/images/2177909"}
 	],
 	"edges":[
 		{"id":"1d214146859e4378","fromNode":"832cf7bfbd472ce5","fromSide":"bottom","toNode":"712730bacf85d643","toSide":"top"},
@@ -87,6 +92,8 @@
 		{"id":"aa53d77375523609","fromNode":"98ab4ebc4db9c646","fromSide":"bottom","toNode":"24f4482c3999a33e","toSide":"top"},
 		{"id":"077e1e9df12c3ca7","fromNode":"2ae037096a849777","fromSide":"bottom","toNode":"8c14c958d55eca94","toSide":"top"},
 		{"id":"276aa3423c9c2571","fromNode":"16afb9cc0ad77b2c","fromSide":"bottom","toNode":"4d153fe294422e6c","toSide":"top"},
-		{"id":"8292b43d22fef28d","fromNode":"95c70baa17cd6063","fromSide":"right","toNode":"a89695434ebe918e","toSide":"left"}
+		{"id":"8292b43d22fef28d","fromNode":"95c70baa17cd6063","fromSide":"right","toNode":"a89695434ebe918e","toSide":"left"},
+		{"id":"5784a879b6fa37c4","fromNode":"71781081c3aaf29e","fromSide":"bottom","toNode":"a07c18407c333957","toSide":"top"},
+		{"id":"1f54240c1e22e459","fromNode":"852c1882f8decfc1","fromSide":"bottom","toNode":"32123d1aca67e8bb","toSide":"top"}
 	]
 }
