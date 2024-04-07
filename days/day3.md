@@ -1,0 +1,37 @@
+# Objects: Objetos
+- Man: [el hombre](https://www.spanishdict.com/translate/el%20hombre?langFrom=es)
+- hat: [el sombrero](https://www.spanishdict.com/translate/el%20sombrero?langFrom=es)
+- coat: el abrigo
+- jeans: jeans
+- house: [la casa](https://www.spanishdict.com/translate/la%20casa?langFrom=es)
+- buildings: el edificio
+- flower: la flor
+- river: [el río](https://www.spanishdict.com/translate/el%20r%C3%ADo?langFrom=es)
+- aquaduct: [el acueducto](https://www.spanishdict.com/translate/el%20acueducto?langFrom=es)
+- mountains: la montana
+- cliffs: el acantilado
+- bridge: el puente
+- rope: [la soga](https://www.spanishdict.com/translate/la%20soga?langFrom=es)
+- guardrail: [la barandilla](https://www.spanishdict.com/translate/la%20barandilla?langFrom=es)
+- path: el sendero
+- rock: [la roca](https://www.spanishdict.com/translate/la%20roca?langFrom=es)
+- sky: el cielo
+- cloud: la nube
+- city: [la ciudad](https://www.spanishdict.com/translate/la%20ciudad?langFrom=es)
+- power pole: poste de electricidad
+# Descriptive Sentence
+- The man walked along the path by the river, noticing the power pole standing tall against the skyline.
+	- Attempt:
+		- El hombre caminda <s>along</s> el sendero en el rio, <s>noticing</s> el poste de electricidad <s>standing</s> alto contra el cielo?
+	- Correct:
+		- El hombre caminaba por el sendero junto al río, notando el poste de electricidad erguido contra el horizonte.
+- As the man followed the path, he marveled at the beauty of the sky above and the river beside him.
+	- Attempt:
+		- Hasta el hombre <s>followed</s> el sendero, Su <s>marveled</s> a el <s>beauty</s> de sobre el cielo y ademas de el rio. 
+	- Correct
+		- Mientras el hombre seguía el sendero, se maravillaba de la belleza del cielo arriba y del río a su lado.
+- The man walked along the path, his gaze lingering on the clouds drifting lazily across the sky.
+	- Attempt:
+		- El Hombre caminaba  por el sendero, se <s>gaze lingering</s> en el nube <s>drifting lazily</s> el frente del cielo.
+	- Correct:
+		- El hombre caminaba por el sendero, con la mirada fija en las nubes que flotaban perezosamente en el cielo.
