@@ -11,14 +11,11 @@
             "id": "92a377a6303c79e0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Canvas1.canvas",
-                "viewState": {
-                  "x": 3607.527112331496,
-                  "y": 506.77955462028285,
-                  "zoom": -1.8039404487306525
-                }
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Canvas1.canvas",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Canvas1.canvas",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Canvas1.canvas"
+                "file": "Readme.md"
               }
             }
           }
@@ -152,10 +149,10 @@
   },
   "active": "92a377a6303c79e0",
   "lastOpenFiles": [
-    "Readme.md",
-    "Canvas/Canvas1.canvas",
-    "Canvas/ImageILike.canvas",
     "Notes.md",
+    "Canvas/Canvas1.canvas",
+    "Readme.md",
+    "Canvas/ImageILike.canvas",
     "days/Colors.md",
     "days/Articles.md",
     "Maybe/Pasted image 20240404172957.png",
