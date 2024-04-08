@@ -1,0 +1,27 @@
+##### Date: 4/8/2024
+# Objects
+- Environment: el entorno
+	- Mountain: la montana
+	- tree: el arbor
+	- forest: [el bosque](https://www.spanishdict.com/translate/el%20bosque?langFrom=es)
+	- sky: el cielo
+	- cloud: la nube
+	- bird: [el pájaro](https://www.spanishdict.com/translate/el%20p%C3%A1jaro?langFrom=es)
+	- fence: [la valla](https://www.spanishdict.com/translate/la%20valla?langFrom=es)
+	- people: [la gente](https://www.spanishdict.com/translate/la%20gente)
+- Building: el edificio
+	- window: [la ventana](https://www.spanishdict.com/translate/la%20ventana?langFrom=es)
+	- circular: [circular](https://www.spanishdict.com/translate/circular?langFrom=en)
+	- white: blanco (since building is M)
+	- art(?): [el arte](https://www.spanishdict.com/translate/el%20arte?langFrom=es) (There isn't any rooms in the building)
+# Descriptive Sentence
+- The bird flew high in the sky above the forest and mountain.
+	- Attempt:
+		- el pájaro <s>flew</s> alto en el cielo sobre del bosque y la montaña
+	- Correct: 
+		- El pájaro voló alto en el cielo sobre el bosque y la montaña.
+- The people walked through the forest, admiring the tall trees and listening to the birds chirping.
+	- Attempt:
+		- La gente caminaba a el bosque, <s>admiring</s> el àbor alto y <s>listen</s> a el pàjaro <s>chirping</s>
+	- Correct:
+		- La gente caminaba por el bosque, admirando los árboles altos y escuchando el canto de los pájaros

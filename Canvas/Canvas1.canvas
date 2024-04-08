@@ -1,28 +1,34 @@
 {
 	"nodes":[
-		{"id":"832cf7bfbd472ce5","type":"file","file":"images/day1.png","x":-480,"y":-240,"width":602,"height":880},
-		{"id":"712730bacf85d643","type":"text","text":"Cite: https://civitai.com/images/8933615","x":-480,"y":680,"width":602,"height":60},
-		{"id":"651c86c73720b8ae","type":"file","file":"days/day1.md","x":160,"y":-240,"width":453,"height":980},
 		{"id":"36fd7a7a3dd998c2","type":"text","text":"Cite: https://civitai.com/images/8773091","x":1880,"y":680,"width":684,"height":60},
 		{"id":"8c2230c558f53475","type":"file","file":"days/day3.md","x":2602,"y":-240,"width":478,"height":1520},
 		{"id":"8bc3df777ece04d1","type":"file","file":"images/day3.png","x":1880,"y":-240,"width":684,"height":879},
 		{"id":"91f3ad9cc73cf917","type":"file","file":"images/day2.png","x":680,"y":-240,"width":586,"height":879},
 		{"id":"1bc7d1cc62988528","type":"text","text":"Cited: https://civitai.com/images/8780852","x":680,"y":680,"width":586,"height":60},
-		{"id":"fe8f2476e7a2970f","type":"file","file":"days/day2.md","x":1320,"y":-240,"width":480,"height":1240},
+		{"id":"fe8f2476e7a2970f","type":"file","file":"days/day2.md","x":1320,"y":-240,"width":480,"height":1320},
 		{"id":"3c1dcf8f96a22d4c","type":"file","file":"days/Preposition (simple).md","x":1160,"y":-1480,"width":400,"height":939},
 		{"id":"1d7cf771ba4f580c","type":"file","file":"days/Preposition (complex).md","x":1640,"y":-1480,"width":400,"height":939},
 		{"id":"447dcf8755e1fa19","type":"file","file":"days/Articles.md","x":1400,"y":-1720,"width":400,"height":140},
 		{"id":"45b5e784b4b6eeee","type":"file","file":"days/Colors.md","x":680,"y":-1480,"width":400,"height":461},
 		{"id":"4ba865f2f3e88a5b","type":"file","file":"images/colors.png","x":-134,"y":-1480,"width":747,"height":461},
-		{"id":"95c70baa17cd6063","type":"file","file":"images/day2-2.png","x":680,"y":1080,"width":586,"height":856},
 		{"id":"e5d005ba287c2ba3","type":"text","text":"https://civitai.com/images/9097816","x":680,"y":1960,"width":586,"height":50},
-		{"id":"a89695434ebe918e","type":"file","file":"days/day2-2.md","x":1308,"y":1080,"width":492,"height":1440},
 		{"id":"71781081c3aaf29e","type":"file","file":"images/day4.png","x":3240,"y":-240,"width":586,"height":879},
 		{"id":"a07c18407c333957","type":"text","text":"https://civitai.com/images/855912","x":3240,"y":680,"width":586,"height":60},
 		{"id":"852c1882f8decfc1","type":"file","file":"images/day5.png","x":4680,"y":-240,"width":641,"height":879},
 		{"id":"32123d1aca67e8bb","type":"text","text":"https://civitai.com/images/2177909","x":4680,"y":675,"width":641,"height":65},
-		{"id":"b8b31e1c629d135d","type":"file","file":"days/day4.md","x":3874,"y":-240,"width":486,"height":1500},
-		{"id":"2965a07407522982","type":"file","file":"days/day5.md","x":5362,"y":-240,"width":478,"height":980}
+		{"id":"b8b31e1c629d135d","type":"file","file":"days/day4.md","x":3874,"y":-240,"width":486,"height":1680},
+		{"id":"2965a07407522982","type":"file","file":"days/day5.md","x":5362,"y":-240,"width":478,"height":1120},
+		{"id":"295536bc890f0eec","type":"file","file":"images/day6.png","x":-480,"y":3200,"width":602,"height":903},
+		{"id":"71f2ba984d2599f1","type":"text","text":"https://civitai.com/images/9255476","x":-480,"y":4140,"width":602,"height":50},
+		{"id":"70c839fe716c5095","type":"file","file":"days/day6.md","x":200,"y":3200,"width":360,"height":990},
+		{"id":"cb9ec58462f92f82","type":"file","file":"images/day7.png","x":680,"y":3200,"width":560,"height":560},
+		{"id":"f834c88134345f91","type":"text","text":"https://civitai.com/images/6531318","x":680,"y":3796,"width":560,"height":50},
+		{"id":"2dad6287ad10f2bf","type":"file","file":"days/day7.md","x":1281,"y":3200,"width":519,"height":990},
+		{"id":"712730bacf85d643","type":"text","text":"Cite: https://civitai.com/images/8933615","x":-600,"y":679,"width":602,"height":60},
+		{"id":"832cf7bfbd472ce5","type":"file","file":"images/day1.png","x":-520,"y":-240,"width":602,"height":880},
+		{"id":"651c86c73720b8ae","type":"file","file":"days/day1.md","x":120,"y":-240,"width":480,"height":980},
+		{"id":"a89695434ebe918e","type":"file","file":"days/day2-2.md","x":1308,"y":1154,"width":492,"height":1500},
+		{"id":"95c70baa17cd6063","type":"file","file":"images/day2-2.png","x":680,"y":1154,"width":586,"height":856}
 	],
 	"edges":[
 		{"id":"1d214146859e4378","fromNode":"832cf7bfbd472ce5","fromSide":"bottom","toNode":"712730bacf85d643","toSide":"top"},
@@ -35,8 +41,12 @@
 		{"id":"151c56dc07721a4c","fromNode":"95c70baa17cd6063","fromSide":"bottom","toNode":"e5d005ba287c2ba3","toSide":"top"},
 		{"id":"8292b43d22fef28d","fromNode":"95c70baa17cd6063","fromSide":"right","toNode":"a89695434ebe918e","toSide":"left"},
 		{"id":"5784a879b6fa37c4","fromNode":"71781081c3aaf29e","fromSide":"bottom","toNode":"a07c18407c333957","toSide":"top"},
-		{"id":"1f54240c1e22e459","fromNode":"852c1882f8decfc1","fromSide":"bottom","toNode":"32123d1aca67e8bb","toSide":"top"},
 		{"id":"ad111d505eb0b862","fromNode":"71781081c3aaf29e","fromSide":"right","toNode":"b8b31e1c629d135d","toSide":"left"},
-		{"id":"92b6b507cd233ba2","fromNode":"852c1882f8decfc1","fromSide":"right","toNode":"2965a07407522982","toSide":"left"}
+		{"id":"1f54240c1e22e459","fromNode":"852c1882f8decfc1","fromSide":"bottom","toNode":"32123d1aca67e8bb","toSide":"top"},
+		{"id":"92b6b507cd233ba2","fromNode":"852c1882f8decfc1","fromSide":"right","toNode":"2965a07407522982","toSide":"left"},
+		{"id":"2f6f70dc64a8ce55","fromNode":"295536bc890f0eec","fromSide":"bottom","toNode":"71f2ba984d2599f1","toSide":"top"},
+		{"id":"a59cf9a264b4e96c","fromNode":"295536bc890f0eec","fromSide":"right","toNode":"70c839fe716c5095","toSide":"left"},
+		{"id":"7be25442e9fce435","fromNode":"cb9ec58462f92f82","fromSide":"bottom","toNode":"f834c88134345f91","toSide":"top"},
+		{"id":"d8e36d669b7e831f","fromNode":"cb9ec58462f92f82","fromSide":"right","toNode":"2dad6287ad10f2bf","toSide":"left"}
 	]
 }
