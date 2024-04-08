@@ -21,7 +21,7 @@
 		{"id":"a07c18407c333957","type":"text","text":"https://civitai.com/images/855912","x":3240,"y":680,"width":586,"height":60},
 		{"id":"852c1882f8decfc1","type":"file","file":"images/day5.png","x":4680,"y":-240,"width":641,"height":879},
 		{"id":"32123d1aca67e8bb","type":"text","text":"https://civitai.com/images/2177909","x":4680,"y":675,"width":641,"height":65},
-		{"id":"b8b31e1c629d135d","type":"file","file":"days/day4.md","x":3874,"y":-240,"width":486,"height":980},
+		{"id":"b8b31e1c629d135d","type":"file","file":"days/day4.md","x":3874,"y":-240,"width":486,"height":1500},
 		{"id":"2965a07407522982","type":"file","file":"days/day5.md","x":5362,"y":-240,"width":478,"height":980}
 	],
 	"edges":[
