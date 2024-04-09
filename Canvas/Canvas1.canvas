@@ -18,17 +18,18 @@
 		{"id":"32123d1aca67e8bb","type":"text","text":"https://civitai.com/images/2177909","x":4680,"y":675,"width":641,"height":65},
 		{"id":"b8b31e1c629d135d","type":"file","file":"days/day4.md","x":3874,"y":-240,"width":486,"height":1680},
 		{"id":"2965a07407522982","type":"file","file":"days/day5.md","x":5362,"y":-240,"width":478,"height":1120},
-		{"id":"295536bc890f0eec","type":"file","file":"images/day6.png","x":-480,"y":3200,"width":602,"height":903},
 		{"id":"71f2ba984d2599f1","type":"text","text":"https://civitai.com/images/9255476","x":-480,"y":4140,"width":602,"height":50},
-		{"id":"70c839fe716c5095","type":"file","file":"days/day6.md","x":200,"y":3200,"width":360,"height":990},
+		{"id":"70c839fe716c5095","type":"file","file":"days/day6.md","x":200,"y":3200,"width":400,"height":990},
 		{"id":"cb9ec58462f92f82","type":"file","file":"images/day7.png","x":680,"y":3200,"width":560,"height":560},
 		{"id":"f834c88134345f91","type":"text","text":"https://civitai.com/images/6531318","x":680,"y":3796,"width":560,"height":50},
 		{"id":"2dad6287ad10f2bf","type":"file","file":"days/day7.md","x":1281,"y":3200,"width":519,"height":990},
-		{"id":"712730bacf85d643","type":"text","text":"Cite: https://civitai.com/images/8933615","x":-600,"y":679,"width":602,"height":60},
 		{"id":"832cf7bfbd472ce5","type":"file","file":"images/day1.png","x":-520,"y":-240,"width":602,"height":880},
 		{"id":"651c86c73720b8ae","type":"file","file":"days/day1.md","x":120,"y":-240,"width":480,"height":980},
 		{"id":"a89695434ebe918e","type":"file","file":"days/day2-2.md","x":1308,"y":1154,"width":492,"height":1500},
-		{"id":"95c70baa17cd6063","type":"file","file":"images/day2-2.png","x":680,"y":1154,"width":586,"height":856}
+		{"id":"95c70baa17cd6063","type":"file","file":"images/day2-2.png","x":680,"y":1154,"width":586,"height":856},
+		{"id":"712730bacf85d643","type":"text","text":"Cite: https://civitai.com/images/8933615","x":-520,"y":680,"width":602,"height":60},
+		{"id":"295536bc890f0eec","type":"file","file":"images/day6.png","x":-480,"y":3200,"width":602,"height":903},
+		{"id":"dc0b88da8d64a8fc","x":1880,"y":3200,"width":425,"height":990,"type":"text","text":"# Day 8 - 9\n\nStudy previous words.\nSelf exam using chatgpt"}
 	],
 	"edges":[
 		{"id":"1d214146859e4378","fromNode":"832cf7bfbd472ce5","fromSide":"bottom","toNode":"712730bacf85d643","toSide":"top"},

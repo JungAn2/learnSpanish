@@ -11,13 +11,31 @@
             "id": "92a377a6303c79e0",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List of words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5835717bd2267030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf8d3f309623b4e3",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Canvas/Canvas1.canvas",
                 "viewState": {
-                  "x": 3606.816120096765,
-                  "y": 1264.4267882526779,
-                  "zoom": -2.7978780110677084
+                  "x": 748.447087111083,
+                  "y": 4706.471052941065,
+                  "zoom": -1.8998105354658115
                 }
               }
             }
@@ -150,29 +168,31 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "92a377a6303c79e0",
+  "active": "bf8d3f309623b4e3",
   "lastOpenFiles": [
-    "images/day7.png",
+    "List of words.md",
+    "days/day5.md",
     "Canvas/Canvas1.canvas",
+    "days/day4.md",
+    "days/day3.md",
+    "days/day2-2.md",
+    "days/day2.md",
+    "days/day1.md",
+    "days/Colors.md",
+    "days/day6.md",
+    "images/day7.png",
     "days/Preposition (complex).md",
     "days/template.md",
     "days/day7.md",
-    "days/day6.md",
     "images/day6.png",
     "Readme.md",
     "Notes.md",
     "Canvas/ImageILike.canvas",
-    "days/Colors.md",
     "days/Articles.md",
     "Maybe/Pasted image 20240404172957.png",
     "Maybe",
-    "days/day5.md",
-    "days/day4.md",
-    "days/day2.md",
     "images/day4.png",
     "images/day5.png",
-    "days/day2-2.md",
-    "days/day1.md",
     "days/Preposition (simple).md",
     "Canvas",
     "Maybe/Pasted image 20240404174849.png",
@@ -180,7 +200,6 @@
     "Maybe/Pasted image 20240404174610.png",
     "Maybe/Pasted image 20240404174322.png",
     "Maybe/Pasted image 20240404174211.png",
-    "days/day3.md",
     "recordings/montaña.mp3",
     "recordings",
     "Recording 20240404150326.webm",

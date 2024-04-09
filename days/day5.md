@@ -14,6 +14,11 @@
 	- circular: [circular](https://www.spanishdict.com/translate/circular?langFrom=en)
 	- white: blanco (since building is M)
 	- art(?): [el arte](https://www.spanishdict.com/translate/el%20arte?langFrom=es) (There isn't any rooms in the building)
+- Verb:
+	- fly: volar
+	- admire: admirar
+	- listen: escuchar
+	- sing: cantar
 # Descriptive Sentence
 - The bird flew high in the sky above the forest and mountain.
 	- Attempt:

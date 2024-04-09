@@ -16,6 +16,25 @@
 - Chinatown: [el barrio chino](https://www.spanishdict.com/translate/el%20barrio%20chino?langFrom=es)
 - street: [la calle](https://www.spanishdict.com/translate/la%20calle?langFrom=es)
 - sci-fi: [la ciencia ficción](https://www.spanishdict.com/translate/la%20ciencia%20ficci%C3%B3n?langFrom=es)
+- accent: el acento
+- essence: la esencia
+- character: personaje
+- warrior: La guerrera / El guerrero
+- hair: cabello
+- wind: el viento
+- decoration: decoracion
+- story: historia
+- Verbs
+	- adorn: adornar
+	- confident: confiado
+	- embody: encarnar
+	- Illuminate: iluminar
+	- wave: ondear
+	- busy: concurrido
+	- shine: lucier
+	- bright: brillante
+	- remember: recordar
+	- future: futura / futuro
 # Descriptive word
 - The woman with long hair, clad in futuristic armor adorned with purple accents, strode confidently through the neon-lit streets of Chinatown, embodying the essence of a character from a sci-fi novel.
 	- Attempt:

@@ -19,6 +19,17 @@
 - cloud: la nube
 - city: [la ciudad](https://www.spanishdict.com/translate/la%20ciudad?langFrom=es)
 - power pole: poste de electricidad
+- beauty: la belleza
+- Verbs:
+	- notice: [notar](https://www.spanishdict.com/translate/notar)
+	- upright: [erguido](https://www.spanishdict.com/translate/erguido)
+	- follow: [seguir](https://www.spanishdict.com/translate/seguir?langFrom=es)
+	- marveled: maravillado
+	- arriba: above
+	- look: mirar
+	- fix: fijar
+	- float: flotar
+	- lazy: perezosa / perezoso
 # Descriptive Sentence
 - The man walked along the path by the river, noticing the power pole standing tall against the skyline.
 	- Attempt:
