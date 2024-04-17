@@ -29,7 +29,7 @@
 		{"id":"95c70baa17cd6063","type":"file","file":"images/day2-2.png","x":680,"y":1154,"width":586,"height":856},
 		{"id":"712730bacf85d643","type":"text","text":"Cite: https://civitai.com/images/8933615","x":-520,"y":680,"width":602,"height":60},
 		{"id":"295536bc890f0eec","type":"file","file":"images/day6.png","x":-480,"y":3200,"width":602,"height":903},
-		{"id":"dc0b88da8d64a8fc","x":1880,"y":3200,"width":425,"height":990,"type":"text","text":"# Day 8 - 9\n\nStudy previous words.\nSelf exam using chatgpt"}
+		{"id":"dc0b88da8d64a8fc","type":"text","text":"# Day 8 - 9\n\nStudy previous words.\nSelf exam using chatgpt","x":1880,"y":3200,"width":425,"height":990}
 	],
 	"edges":[
 		{"id":"1d214146859e4378","fromNode":"832cf7bfbd472ce5","fromSide":"bottom","toNode":"712730bacf85d643","toSide":"top"},

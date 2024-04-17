@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e30c0e95f8401fba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "92a377a6303c79e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5835717bd2267030",
         "type": "tabs",
         "children": [
@@ -33,14 +15,30 @@
               "state": {
                 "file": "Canvas/Canvas1.canvas",
                 "viewState": {
-                  "x": 748.447087111083,
-                  "y": 4706.471052941065,
-                  "zoom": -1.8998105354658115
+                  "x": 2660,
+                  "y": 1235,
+                  "zoom": -3.6742824909611262
+                }
+              }
+            }
+          },
+          {
+            "id": "ce2c4fc0f1c08194",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/2024 April week3.canvas",
+                "viewState": {
+                  "x": 195.6956090129175,
+                  "y": -571.5313382877125,
+                  "zoom": -1.1619971165060994
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Canvas1.canvas",
+                "file": "days/2024a3-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Canvas1.canvas",
+                "file": "days/2024a3-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Canvas1.canvas"
+                "file": "days/2024a3-1.md"
               }
             }
           }
@@ -168,11 +166,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bf8d3f309623b4e3",
+  "active": "ce2c4fc0f1c08194",
   "lastOpenFiles": [
+    "days/2024a3-1.md",
+    "images/2024a3-1.png",
+    "Canvas/2024 April week3.canvas",
     "List of words.md",
-    "days/day5.md",
+    "2024 April Week3.md",
     "Canvas/Canvas1.canvas",
+    "Music/Sálvate Tú - LosPetitFellas (english).md",
+    "Music/Sálvate Tú - LosPetitFellas (spanish).md",
+    "Music/De música ligera - soda stereo (spanish).md",
+    "Music/De música ligera - soda stereo (english).md",
+    "Canvas/Music.canvas",
+    "Music/Bandoleros-DonOmar.md",
+    "Music/Tu-EthanUno.md",
+    "Music/Despacito-LuisFonsi_DaddyYankee.md",
+    "Music",
+    "days/day5.md",
     "days/day4.md",
     "days/day3.md",
     "days/day2-2.md",
@@ -199,13 +210,11 @@
     "Maybe/Pasted image 20240404174719.png",
     "Maybe/Pasted image 20240404174610.png",
     "Maybe/Pasted image 20240404174322.png",
-    "Maybe/Pasted image 20240404174211.png",
     "recordings/montaña.mp3",
     "recordings",
     "Recording 20240404150326.webm",
     "days",
     "images",
-    "Readme.md.md",
     "Images"
   ]
 }

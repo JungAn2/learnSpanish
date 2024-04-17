@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"480902a698d40ea1","type":"file","file":"images/2024a3-1.png","x":-800,"y":-1170,"width":1074,"height":1570},
+		{"id":"bcccce0e65933b70","x":-800,"y":420,"width":1074,"height":50,"type":"text","text":"https://civitai.com/images/5909116"},
+		{"id":"e57571c77bf3eee0","x":328,"y":-1170,"width":632,"height":1640,"type":"file","file":"days/2024a3-1.md"}
+	],
+	"edges":[
+		{"id":"9b5b659a959e6a01","fromNode":"480902a698d40ea1","fromSide":"bottom","toNode":"bcccce0e65933b70","toSide":"top"},
+		{"id":"eb2fd7f41cfc7dcd","fromNode":"480902a698d40ea1","fromSide":"right","toNode":"e57571c77bf3eee0","toSide":"left"}
+	]
+}
